@@ -10,7 +10,7 @@ Talcahuano, Chile
 🔗 www.linkedin.com/in/pablo-lay
 
 ## 🛠️ Habilidades Técnicas
-- **Lenguajes:** Java, JavaScript, Angular, PHP, C#, C++, HTML, CSS  
+- **Lenguajes:** Java, JavaScript, Angular, PHP, C#, C++, HTML, CSS, Python  
 - **Bases de Datos:** PostgreSQL, MySQL, SQL Server  
 - **Frameworks y Herramientas:** PrimeNG, Spring Boot, Git, GitExtensions  
 - **Entornos de Desarrollo:** Eclipse, Visual Studio, Android Studio, VS Code
