@@ -7,7 +7,7 @@ Desarrollador Full Stack con experiencia en el desarrollo de aplicaciones web y 
 Talcahuano, Chile  
 📧 pablolaym@gmail.com  
 📱 +56 9 7336 7898  
-🔗 LinkedIn
+🔗 www.linkedin.com/in/pablo-lay
 
 ## 🛠️ Habilidades Técnicas
 - **Lenguajes:** Java, JavaScript, Angular, PHP, C#, C++, HTML, CSS  
